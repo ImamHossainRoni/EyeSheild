@@ -1,4 +1,5 @@
-# 🪬 EyeShield: Elevate your coding experience with a developer-friendly, eye-pleasing theme.
+# 🪬 EyeShield: A Dark, Clean, Minimal VSCode Theme
+### ➡️ Elevate your coding experience with a developer-friendly, eye-pleasing theme.
 
 ![EyeShield, a a VSCode theme](./extras/js.png)
 

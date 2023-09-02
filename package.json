@@ -3,12 +3,21 @@
   "displayName": "eye-shield",
   "description": "Elevate your coding experience with a developer-friendly, eye-pleasing theme.",
   "version": "0.0.1",
+  "publisher": "ImamHossainRoni",
+  "keywords": ["vscode", "theme", "dark"],
   "engines": {
     "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
   ],
+  "maintainers": [
+    "Imam Hossain Roni <imamhossainroni95@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImamHossainRoni/eyesheild"
+  },
   "contributes": {
     "themes": [
       {
