@@ -1,6 +1,6 @@
 {
-  "name": "eyeshield",
-  "displayName": "EyeShield",
+  "name": "EyeGuard",
+  "displayName": "EyeGuard",
   "description": "Elevate your coding experience with a developer-friendly, eye-pleasing theme.",
   "version": "0.0.1",
   "publisher": "ImamHossainRoni",
@@ -17,14 +17,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ImamHossainRoni/eyesheild"
+    "url": "https://github.com/ImamHossainRoni/eye-guard"
   },
   "contributes": {
     "themes": [
       {
-        "label": "EyeSheild",
+        "label": "EyeGuard",
         "uiTheme": "vs-dark",
-        "path": "./themes/EyeSheild-color-theme.json"
+        "path": "./themes/EyeGuard-color-theme.json"
       }
     ]
   }

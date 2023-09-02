@@ -1,15 +1,15 @@
-# 🪬 EyeShield: A Dark, Clean, Minimal VSCode Theme
+# 🪬 EyeGuard: A Dark, Clean, Minimal VSCode Theme
 ### ➡️ Elevate your coding experience with a developer-friendly, eye-pleasing theme.
 
-![EyeShield, a a VSCode theme](./extras/js.png)
+![EyeGuard, a a VSCode theme](./extras/js.png)
 
 ## Installation
 
 - Open the Extensions sidebar in VSCode
-- Search for `EyeShield`
+- Search for `EyeGuard`
 - Click Install
 - Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-- Select Preferences: Color Theme and choose `EyeShield`
+- Select Preferences: Color Theme and choose `EyeGuard`
 
 
 ---
