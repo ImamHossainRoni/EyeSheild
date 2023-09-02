@@ -1,0 +1,21 @@
+{
+  "name": "eye-shield",
+  "displayName": "eye-shield",
+  "description": "Elevate your coding experience with a developer-friendly, eye-pleasing theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EyeSheild",
+        "uiTheme": "vs-dark",
+        "path": "./themes/EyeSheild-color-theme.json"
+      }
+    ]
+  }
+}
