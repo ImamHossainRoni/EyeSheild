@@ -1,10 +1,11 @@
 {
-  "name": "eye-shield",
-  "displayName": "eye-shield",
+  "name": "EyeShield",
+  "displayName": "EyeShield",
   "description": "Elevate your coding experience with a developer-friendly, eye-pleasing theme.",
   "version": "0.0.1",
   "publisher": "ImamHossainRoni",
   "keywords": ["vscode", "theme", "dark"],
+  "icon": "./extras/logo.png",
   "engines": {
     "vscode": "^1.81.0"
   },
