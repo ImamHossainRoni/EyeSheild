@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "publisher": "ImamHossainRoni",
   "keywords": ["vscode", "theme", "dark"],
-  "icon": "./extras/logo.png",
+  "icon": "extras/logo.png",
   "engines": {
     "vscode": "^1.81.0"
   },
