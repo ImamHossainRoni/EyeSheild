@@ -1,16 +1,31 @@
-# eye-shield README
+# 🪬 EyeShield : A VSCode Theme
 
-## Working with Markdown
+A Dark, Clean, Minimal VSCode Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A Visual Studio Code theme built by Imam Hossain Roni
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![EyeShield, a a VSCode theme](./extras/js.png)
 
-## For more information
+## Installation
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- Open the Extensions sidebar in VSCode
+- Search for `EyeShield`
+- Click Install
+- Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
+- Select Preferences: Color Theme and choose `EyeShield`
 
-**Enjoy!**
+
+---
+
+## About me
+#### I'm a Full-Stack Software Engineer from Dhaka, Bangladesh.
+
+##### NOW
+
+- ✨ Writing at [Abstract Thoughts 🤔](https://imamhossainroni.me/);
+- 🐛 Fixing bugs... 😄
+- 🏢 I'm currently working remotely as a Full-Stack Software Engineer
+- ⚙️ I used: `Python`,  `Django`, `Javascript`, `Vue`, `Angular`, `React`
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me : imamhossainroni95@gmail.com
+
