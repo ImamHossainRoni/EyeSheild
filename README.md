@@ -1,10 +1,7 @@
-# 🪬 EyeShield : A VSCode Theme
-
-A Dark, Clean, Minimal VSCode Theme
-
-A Visual Studio Code theme built by Imam Hossain Roni
-
+# 🪬 EyeShield : Elevate your coding experience with a developer-friendly, eye-pleasing theme.
+---
 ![EyeShield, a a VSCode theme](./extras/js.png)
+---
 
 ## Installation
 
@@ -18,14 +15,11 @@ A Visual Studio Code theme built by Imam Hossain Roni
 ---
 
 ## About me
-#### I'm a Full-Stack Software Engineer from Dhaka, Bangladesh.
-
-##### NOW
-
-- ✨ Writing at [Abstract Thoughts 🤔](https://imamhossainroni.me/);
+- 👨‍💻 I'm a Full-Stack Software Engineer from Dhaka, Bangladesh.
+- ✨ Writing at [Abstract Thoughts 🤔](https://imamhossainroni.me/)
 - 🐛 Fixing bugs... 😄
 - 🏢 I'm currently working remotely as a Full-Stack Software Engineer
-- ⚙️ I used: `Python`,  `Django`, `Javascript`, `Vue`, `Angular`, `React`
+- ⚙️ I used: `Python`,  `Django`, `FastAPI`, `Javascript`, `Vue`, `Angular`, `React`
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me : imamhossainroni95@gmail.com
 
